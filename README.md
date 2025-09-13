@@ -2,7 +2,7 @@
 
 ## English
 
-This project provides a simple HTTP Access Point (AP) server for the ESP8266 (MicroPython) that serves `.zs` files from the device's flash memory. It is designed to work exclusively with ZaurParser running on Arduino UNO R4 Wifi, handling only requests compatible with ZaurParser.
+This project provides a simple HTTP Access Point (AP) server for the ESP8266 (MicroPython) that serves `.zs` files from the device's flash memory. It is designed to work exclusively with (ZaurParser)[https://github.com/AnkyloZaur/ZaurParser "ZaurParser on GitHub"] running on Arduino UNO R4 Wifi, handling only requests compatible with ZaurParser.
 
 ### Features
 - Sets up an open WiFi AP named `ZaurScript_AP` (can be password-protected)
